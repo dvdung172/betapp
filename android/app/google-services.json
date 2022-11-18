@@ -1,34 +1,49 @@
 {
   "project_info": {
-    "project_number": "768067207401",
-    "project_id": "bet-app-c4450",
-    "storage_bucket": "bet-app-c4450.appspot.com"
+    "project_number": "551882827746",
+    "project_id": "bet-app-ee55d",
+    "storage_bucket": "bet-app-ee55d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:768067207401:android:5490a1231239a47689f078",
+        "mobilesdk_app_id": "1:551882827746:android:f2246812c6ff8987ee7bbb",
         "android_client_info": {
           "package_name": "com.example.bet_app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "768067207401-r06goeefgtuhopb5titu01cbkdt9nfh5.apps.googleusercontent.com",
+          "client_id": "551882827746-narmnjeovlcs2hku631skb2p3esalkfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bet_app",
+            "certificate_hash": "ca5716aff9f99b6b583b2e289783f59f513f1a96"
+          }
+        },
+        {
+          "client_id": "551882827746-3et53bqtlc9lcbu76b0vape4frlao51c.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCE2k8W-oEyiG0uPBpOXFSy92huZGwUY7A"
+          "current_key": "AIzaSyBwsRq_iwyVeuFj_iTv0O4ZxdkYaC8XAsM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "768067207401-r06goeefgtuhopb5titu01cbkdt9nfh5.apps.googleusercontent.com",
+              "client_id": "551882827746-3et53bqtlc9lcbu76b0vape4frlao51c.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "551882827746-lif7olos09gpngmi1765fftage4l9e1d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.betApp"
+              }
             }
           ]
         }

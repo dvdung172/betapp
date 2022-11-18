@@ -47,29 +47,30 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCmfsIUOtL0yUqH9GItnU3cahmtDoThX34',
-    appId: '1:768067207401:web:19a287cc6705b77789f078',
-    messagingSenderId: '768067207401',
-    projectId: 'bet-app-c4450',
-    authDomain: 'bet-app-c4450.firebaseapp.com',
-    storageBucket: 'bet-app-c4450.appspot.com',
+    apiKey: 'AIzaSyAicRbzkm9nOYr9MCmjGigqkDEZkXFUoWM',
+    appId: '1:551882827746:web:b541ac242ee86e63ee7bbb',
+    messagingSenderId: '551882827746',
+    projectId: 'bet-app-ee55d',
+    authDomain: 'bet-app-ee55d.firebaseapp.com',
+    storageBucket: 'bet-app-ee55d.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCE2k8W-oEyiG0uPBpOXFSy92huZGwUY7A',
-    appId: '1:768067207401:android:5490a1231239a47689f078',
-    messagingSenderId: '768067207401',
-    projectId: 'bet-app-c4450',
-    storageBucket: 'bet-app-c4450.appspot.com',
+    apiKey: 'AIzaSyBwsRq_iwyVeuFj_iTv0O4ZxdkYaC8XAsM',
+    appId: '1:551882827746:android:f2246812c6ff8987ee7bbb',
+    messagingSenderId: '551882827746',
+    projectId: 'bet-app-ee55d',
+    storageBucket: 'bet-app-ee55d.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC68qE3DenMw_gUT8BrzZ7Z7vh97b7Q_Ik',
-    appId: '1:768067207401:ios:84e911d0878e625489f078',
-    messagingSenderId: '768067207401',
-    projectId: 'bet-app-c4450',
-    storageBucket: 'bet-app-c4450.appspot.com',
-    iosClientId: '768067207401-6csefbks05cotu2qck4c1k39umpj5nhe.apps.googleusercontent.com',
+    apiKey: 'AIzaSyAiwn_z-eKrJz2FYGsbeu-1pVy7PXVlNtE',
+    appId: '1:551882827746:ios:390cfc6429304fdfee7bbb',
+    messagingSenderId: '551882827746',
+    projectId: 'bet-app-ee55d',
+    storageBucket: 'bet-app-ee55d.appspot.com',
+    androidClientId: '551882827746-narmnjeovlcs2hku631skb2p3esalkfm.apps.googleusercontent.com',
+    iosClientId: '551882827746-lif7olos09gpngmi1765fftage4l9e1d.apps.googleusercontent.com',
     iosBundleId: 'com.example.betApp',
   );
 }
